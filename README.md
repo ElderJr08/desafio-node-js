@@ -2,13 +2,13 @@
 Código da API para registro/autenticação de usuário
 
 Back-end:
--NodeJs
+- NodeJs
 
 Gerenciador de pacotes:
 - NPM
 
 Base de dados utilizado: 
--MongoDB
+- MongoDB
 
 Criação para teste:
 - Jest
@@ -20,4 +20,4 @@ Geração de token(hash)
 - JWT
 
 Deploy:
--Heroku
+- Heroku
